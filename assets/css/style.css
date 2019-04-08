@@ -1,0 +1,31 @@
+body { 
+    background: url(screen.jpeg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+    
+
+
+header {
+    background: black;
+    color: red;
+    text-align: center;
+    margin-bottom: 0;
+    font-size: 48px;
+}
+
+.gameDiv{
+    
+    text-align: center;
+    font-size: 24px;
+    color: red;
+}
+
+.btn-primary, .reset:hover{
+    background:black;
+    color:maroon;
+}
+
+    
